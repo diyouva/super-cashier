@@ -17,3 +17,4 @@ jalankan modul script.py dengan syntax "from script import Transaction"
 
 # Hasil Test Case
 jalankan test_case.ipynb untuk melakukan test atas script.py
+hasil test case dapat dilihat pada video di link: https://youtu.be/gCjf-cWe7lg
